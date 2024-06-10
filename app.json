@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "qr-menu",
-    "slug": "qr-menu",
+    "name": "picker-image-app",
+    "slug": "picker-image-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
